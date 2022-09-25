@@ -1,0 +1,41 @@
+.hero{
+    padding: 4rem 2rem 2rem; 
+}
+.textBox{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem; 
+    margin-bottom: 4rem; 
+}
+
+.title{
+    font-family: var(--f-Poppins);
+    font-size: 1.7em; 
+    line-height: 1.3em; 
+}
+
+@media (min-width:750px) {
+    .hero{
+        display:flex; 
+        flex-direction: column; 
+        align-items: center;
+        gap: 5rem; 
+        padding: 5rem var(--p-desktop) 3rem; 
+    }
+
+    .textBox{
+      max-width: 60rem; 
+      margin: 0; 
+    }
+
+    .title{
+       
+        font-size: 2.2rem; 
+    }
+
+    .desc{
+        max-width: 32rem; 
+    }
+}

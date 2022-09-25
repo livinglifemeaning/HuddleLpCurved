@@ -1,0 +1,38 @@
+.btn {
+  border-radius: 100px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: .9rem; 
+}
+.btn:active{
+    scale: .98; 
+}
+.transparent {
+  padding: .4em 2rem; 
+  color: var(--c-pink); 
+  border: solid 1px var(--c-pink)
+}
+
+.transparent:hover{
+    color:hsl(322, 100%, 80%); 
+    border: solid 1px hsl(322, 100%, 80%); 
+}
+
+.filled{
+    background-color: var(--c-pink); 
+    color: #fff; 
+    padding: 1rem 3.5rem; 
+    box-shadow: 0 5px 5px hsla(322, 100%, 70%, 0.3); 
+   
+}
+
+.filled:hover{
+    background-color:hsl(322, 100%, 80%);
+}
+
+@media (min-width: 750px) {
+    .btn{
+        font-size: 1rem; 
+    }
+
+}

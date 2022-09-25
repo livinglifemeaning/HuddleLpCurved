@@ -1,0 +1,13 @@
+.bar{
+    display: flex;
+    gap: 1rem; 
+}
+
+.bar svg{
+  font-size: 1.2rem;
+}
+
+.bar svg:hover{
+    color: var(--c-pink);
+}
+

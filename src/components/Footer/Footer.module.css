@@ -1,0 +1,89 @@
+.footer {
+  background-color: var(--c-cyan-dark);
+  color: #fff;
+  padding: 3rem var(--p-mobile) 3rem;
+  position: relative;
+  display: flex; 
+  flex-direction: column;
+  gap: 5rem; 
+}
+
+
+.newsletter .title{
+    text-transform: uppercase;
+    font-family: var(--f-Poppins);
+    font-size: 1.4rem; 
+}
+
+.newsletter input{
+    width: 100%; 
+    border-radius: 5px; 
+    border: 0; 
+    height: 40px; 
+    padding: 1rem; 
+    margin-top: 2rem; 
+}
+
+input:focus-visible{
+    outline: 0; 
+}
+
+.btn{
+background-color: var(--c-pink);
+padding: .8rem; 
+border-radius: 5px; 
+width: 40%; 
+text-align: center; 
+cursor: pointer; 
+margin-top: 1rem; 
+margin-left: auto; 
+font-family: var(--f-Poppins);
+}
+
+.btn:hover{
+    background-color:hsl(322, 100%, 80%);
+}
+.logo {
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+
+.accent {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  width: 100vw; 
+}
+
+@media (min-width: 750px) {
+  .footer {
+    padding: 10rem var(--p-desktop) 5rem;
+    flex-direction: row-reverse; 
+    justify-content: space-around;
+  }
+  
+  .accent{
+    top: -160px; 
+    
+  }
+
+  .newsletter input{
+    max-width: 15rem; 
+   
+  }
+  .newsletter input, .btn{
+    display: inline-block; 
+
+  }
+ 
+ .btn{
+    margin-left: 2rem; 
+    width: 30%; 
+ }
+
+ .newsletter p, .infoBox p{
+    max-width: 30rem; 
+ }
+ 
+}

@@ -1,0 +1,11 @@
+.contacts{
+    display: flex; 
+    flex-direction: column;
+    gap: 1rem;
+    margin: 3rem 0; 
+}
+.contactBox{
+    display:  flex;
+    gap: 1rem;
+    align-items: center;
+}

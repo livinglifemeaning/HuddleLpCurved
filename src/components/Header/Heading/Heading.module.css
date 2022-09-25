@@ -1,0 +1,20 @@
+.heading {
+  padding: 2rem var(--p-mobile);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading img {
+  width: 120px;
+}
+
+@media (min-width: 750px) {
+  .heading {
+    padding: 3rem var(--p-desktop);
+  }
+
+  .heading img{
+    width: 200px; 
+  }
+}
