@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HuddleLpCurved/static/css/main.dc55a55a.css",
+    "main.js": "/HuddleLpCurved/static/js/main.20082562.js",
+    "static/media/flowing.svg": "/HuddleLpCurved/static/media/flowing.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/HuddleLpCurved/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/HuddleLpCurved/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/headerLogo.svg": "/HuddleLpCurved/static/media/headerLogo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/footerLogo.svg": "/HuddleLpCurved/static/media/footerLogo.d9ae5618cfb89d278527fd2fb9eb95a6.svg",
+    "static/media/illustration-mockups.svg": "/HuddleLpCurved/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/icon-communities.svg": "/HuddleLpCurved/static/media/icon-communities.e889ff65d255a5e94c8edc7eaa66e423.svg",
+    "static/media/icon-messages.svg": "/HuddleLpCurved/static/media/icon-messages.a93f061b7c60758bb4ba41887ad0ff20.svg",
+    "index.html": "/HuddleLpCurved/index.html",
+    "static/media/users-bottom-desktop.svg": "/HuddleLpCurved/static/media/users-bottom-desktop.d3aceda96f2c01c6bbab47077d801891.svg",
+    "static/media/users-top-desktop.svg": "/HuddleLpCurved/static/media/users-top-desktop.56f9794a3f455baf1f9fbc251eeee424.svg",
+    "static/media/users-top-mobile.svg": "/HuddleLpCurved/static/media/users-top-mobile.04599e2ef6291d5d27e77f1f4d1fd55f.svg",
+    "static/media/grow-bottom-desktop.svg": "/HuddleLpCurved/static/media/grow-bottom-desktop.749314bcb6b45ecfe1ff41277a91d24c.svg",
+    "static/media/users-bottom-mobile.svg": "/HuddleLpCurved/static/media/users-bottom-mobile.02fe54b760430a6418199990c913473e.svg",
+    "static/media/grow-top-desktop.svg": "/HuddleLpCurved/static/media/grow-top-desktop.d6d9d44b00bbb80d506581aad3f825f8.svg",
+    "static/media/grow-top-mobile.svg": "/HuddleLpCurved/static/media/grow-top-mobile.2c00de768d6a3f0aff63c8597c5d44ae.svg",
+    "static/media/grow-bottom-mobile.svg": "/HuddleLpCurved/static/media/grow-bottom-mobile.140d382c122e27b21f847a0e8a1b72a5.svg",
+    "static/media/footer-accent-desktop.svg": "/HuddleLpCurved/static/media/footer-accent-desktop.8c0b6c1db046eed123c2e5d1fc186381.svg",
+    "static/media/footer-accent-mobile.svg": "/HuddleLpCurved/static/media/footer-accent-mobile.c940267b0f9e81dab354dd1bfab695e2.svg",
+    "static/media/icon-phone.svg": "/HuddleLpCurved/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-email.svg": "/HuddleLpCurved/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.dc55a55a.css.map": "/HuddleLpCurved/static/css/main.dc55a55a.css.map",
+    "main.20082562.js.map": "/HuddleLpCurved/static/js/main.20082562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc55a55a.css",
+    "static/js/main.20082562.js"
+  ]
+}
